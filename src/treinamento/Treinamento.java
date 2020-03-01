@@ -16,7 +16,7 @@ public class Treinamento {
      */
     public static void main(String[] args) {
         
-        
+    System.out.println("meudeus");   
     System.out.println("eai");
         // TODO code application logic 
         
